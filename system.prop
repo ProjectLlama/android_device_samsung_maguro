@@ -8,3 +8,6 @@ telephony.lteOnCdmaDevice=0
 
 # Ril sends only one RIL_UNSOL_CALL_RING, so set call_ring.multiple to false
 ro.telephony.call_ring.multiple=0
+
+##We don't want dalvik on /cache
+dalvik.vm.dexopt-data-only=1
