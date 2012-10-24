@@ -1,0 +1,10 @@
+Change-Id: I06bdebe673037acb68e3e6789a3a2cbc062b0fa4
+Code-Review+1: Ivan Brazza <dudeman1996@gmail.com>
+Verified+1: Ivan Brazza <dudeman1996@gmail.com>
+Code-Review+2: Benjamin Gwynn <13gwynn@gmail.com>
+Verified+1: Benjamin Gwynn <13gwynn@gmail.com>
+Submitted-by: Benjamin Gwynn <13gwynn@gmail.com>
+Submitted-at: Wed, 24 Oct 2012 17:49:17 +0100
+Reviewed-on: http://llamagerrit.dyndns.org:8080/23
+Project: android_device_samsung_maguro
+Branch: refs/heads/jellybean
