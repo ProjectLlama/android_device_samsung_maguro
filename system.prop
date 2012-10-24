@@ -11,3 +11,6 @@ ro.telephony.call_ring.multiple=0
 
 ##We don't want dalvik on /cache
 dalvik.vm.dexopt-data-only=1
+
+# Enable ADB by default
+persist.service.adb.enable=1
